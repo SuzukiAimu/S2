@@ -1,16 +1,4 @@
-__version__ = "aaa"
+__version__ = "-- 1.0.0"
 
 
-r"""
-master : A.               F
-          \             /
-fix    :   \       D - E  
-            \     /
-new    :     B - C
-
-
-"""
-
-
-fix1 = 1
-fix2 = 1
+"fix OK"
