@@ -12,5 +12,5 @@ new    :     B - C
 """
 
 
-fix1 = 0
+fix1 = 1
 fix2 = 0
