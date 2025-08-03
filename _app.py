@@ -13,4 +13,4 @@ new    :     B - C
 
 
 fix1 = 1
-fix2 = 0
+fix2 = 1
