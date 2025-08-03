@@ -2,9 +2,9 @@ __version__ = "aaa"
 
 
 r"""
-master : A               F
+master : A.               F
           \             /
-fix    :   \       D - E.  
+fix    :   \       D - E  
             \     /
 new    :     B - C
 
